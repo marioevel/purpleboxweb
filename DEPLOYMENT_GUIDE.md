@@ -324,11 +324,12 @@ For issues or questions about the website deployment, contact your development t
 ## Technical Stack
 
 - **Frontend:** React 19
-- **Styling:** Tailwind CSS + Custom CSS
+- **Styling:** Tailwind CSS + Custom CSS (Black & Purple theme)
 - **UI Components:** Shadcn/UI
+- **Branding:** Purple Box
 - **Server:** Nginx
 - **OS:** Ubuntu 22.04 LTS
 
 ---
 
-**Deployment completed! Your Sebastian Hawkins sim racing website is now live.**
+**Deployment completed! Your Purple Box sim racing website is now live.**
