@@ -109,8 +109,8 @@ All text content is in `src/pages/Home.jsx`:
 ### Modify Colors
 Edit `src/App.css` under `:root` variables:
 ```css
---brand-primary: #d9fb06;  /* Lime green accent */
---bg-page: #1a1c1b;        /* Black background */
+--brand-primary: #8a64c8;  /* Purple accent */
+--bg-page: #0a0a0a;        /* Deep black background */
 ```
 
 ---
