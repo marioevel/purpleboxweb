@@ -1,4 +1,4 @@
-# Quick Start Guide - Sebastian Hawkins Website
+# Quick Start Guide - Purple Box Website
 
 ## Local Development
 
