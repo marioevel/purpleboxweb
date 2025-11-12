@@ -1,8 +1,8 @@
-# Sebastian Hawkins Sim Racing Website - Deployment Guide
+# Purple Box - Sebastian Hawkins Sim Racing Website - Deployment Guide
 
 ## Ubuntu 22.04 (LTS) x64 Server Installation
 
-This guide will help you deploy the Sebastian Hawkins sim racing website on an Ubuntu 22.04 server.
+This guide will help you deploy the Purple Box sim racing website for Sebastian Hawkins on an Ubuntu 22.04 server.
 
 ---
 
